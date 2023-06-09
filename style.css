@@ -31,7 +31,7 @@ body.on{
     width:35px;
     height:80px;
     top:-50px;
-    border-top:30px solid #000;
+    border-top:30px solid #120505;
     border-radius:10px;
 }
 body.on .bulb::before{
